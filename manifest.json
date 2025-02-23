@@ -1,14 +1,14 @@
 {
     "manifest_version": 3,
-    "name": "Chrome Extension with React & Vite",
+    "name": "textarea-ex",
     "version": "REPLACED-BY-VITE",
-    "description": "A chrome extension boilerplate built with React 18 and Vite 5",
+    "description": "Chrome extension for additional textarea functionality",
     "icons": {
         "34": "assets/icons/icon-34.png",
         "128": "assets/icons/icon-128.png"
     },
     "action": {
-        "default_title": "Chrome Extension React",
+        "default_title": "textarea-ex",
         "default_popup": "src/popup/index.html",
         "default_icon": "assets/icons/icon-34.png"
     },
